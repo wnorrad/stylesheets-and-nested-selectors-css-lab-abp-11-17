@@ -31,6 +31,11 @@ nav a {
   font-size: 18px;
 }
 
+header h3 {
+  float: left;
+  font-size: 30px;
+}
+
 header h3 a {
   text-decoration: none;
   color: #868e96;
